@@ -3,7 +3,7 @@
 
 ### Profile Image
 
-![Profile Image]([https://media-exp1.licdn.com/dms/image/C5603AQE4sR8xWk4ZjA/profile-displayphoto-shrink_400_400/0/1643435672955?e=1677715200&v=beta&t=JW5M4W2nYjKlXs3O8nK7f1aYFzRlW6JxTcJyQhK5oYw](https://media.licdn.com/dms/image/D4E03AQEguOWOlccrmw/profile-displayphoto-shrink_200_200/0/1699954358678?e=1721865600&v=beta&t=ztbeysxJ7H-YOB2LnHpTh8kUcQ0xWBNO27prvp6uD4I))
+![Profile Image](https://media.licdn.com/dms/image/D4E03AQEguOWOlccrmw/profile-displayphoto-shrink_200_200/0/1699954358678?e=1721865600&v=beta&t=ztbeysxJ7H-YOB2LnHpTh8kUcQ0xWBNO27prvp6uD4I)
 
 ### About Me
 Zeeshan Mushtaq is a seasoned software developer and DevOps engineer with a strong background in cloud computing, artificial intelligence, and machine learning. With a proven track record of delivering high-quality solutions, Zeeshan is passionate about staying up-to-date with the latest technologies and trends.
