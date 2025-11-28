@@ -1,10 +1,5 @@
 # Zeeshan Mushtaq
 
-
-### Profile Image
-
-![Profile Image](https://media.licdn.com/dms/image/D4E03AQEguOWOlccrmw/profile-displayphoto-shrink_200_200/0/1699954358678?e=1721865600&v=beta&t=ztbeysxJ7H-YOB2LnHpTh8kUcQ0xWBNO27prvp6uD4I)
-
 ### About Me
 Since graduating with a BSCS from The Islamia University of Bahawalpur, my journey at Crexed has been marked by a blend of front-end flair and back-end rigor. Our team excels in deploying Laravel for robust web solutions, ensuring our projects are both innovative and aligned with the latest industry standards.
 
@@ -49,4 +44,4 @@ My expertise shines in MVC, JWT for authentication, and Pusher / Reverb for WebS
 #### ✅ Responsive Web Design
 
 ### Contact Me
-Feel free to connect with me on LinkedIn or reach out to me at [zeeshan.mushtaq.dev@gmail.com](mailto:zeeshanmushtaqdev786@gmail.com).
+Feel free to connect with me on LinkedIn or reach out to me at [zeeshanmushtaqdev786@gmail.com](mailto:zeeshanmushtaqdev786@gmail.com).
