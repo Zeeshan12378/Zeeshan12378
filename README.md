@@ -1,47 +1,88 @@
-# Zeeshan Mushtaq
+# Hi, I'm Zeeshan Mushtaq 👋
 
-### About Me
-Since graduating with a BSCS from The Islamia University of Bahawalpur, my journey at Crexed has been marked by a blend of front-end flair and back-end rigor. Our team excels in deploying Laravel for robust web solutions, ensuring our projects are both innovative and aligned with the latest industry standards.
+**Laravel Full-Stack Developer** with 3+ years of experience building **secure, scalable, and maintainable web applications**.  
+I specialize in **backend-heavy Laravel systems**, interactive dashboards, and dynamic web apps using **Livewire, WebSockets, and Blade**.  
 
-My expertise shines in MVC, JWT for authentication, and Pusher / Reverb for WebSocket where I've contributed to secure, scalable REST APIs and intuitive database designs. This skill set, coupled with a deep understanding of client needs, empowers our team to deliver web applications that are not just functional but resonate with users' expectations.
+---
 
-### Experience
-#### PHP / Laravel Developer at Crexed (june 2021 - Present)
+## 🔧 Core Expertise
 
-• Proficient in both front-end and back-end development
-• Extensive experience with Laravel, a PHP framework
-• Expertise in Git, GitHub, REST APIs, Database Design, API Development, MySQL, and Model-View- 
- Controller (MVC) pattern
-• Strong back-end skills in OAuth, SQL, Object-Oriented Programming (OOP), and JavaScript
-• Solid front-end skills in HTML5, jQuery, CSS, and Bootstrap
-• Dedicated to delivering high-quality web design and development solutions
+### Backend
+- Laravel (MVC, Eloquent ORM, Service-based architecture)  
+- RESTful API Development (Sanctum, Passport, JWT)  
+- Authentication & Authorization (Roles & Permissions)  
+- Database Design & Optimization (MySQL, PostgreSQL, Redis)  
+- Background Jobs, Queues & Caching  
+- Event Broadcasting (Laravel Echo, Pusher, Reverb)  
 
-#### Web Developer (Feb 2022 - Jan 2023)
+### Frontend
+- Livewire + Blade Templates  
+- Alpine.js for lightweight interactivity  
+- Bootstrap (v4/v5) & responsive design  
+- JavaScript / AJAX for dynamic UI enhancements  
 
-• Handled web development tasks, primarily crafting and maintaining web applications
-• Demonstrated proficiency in diverse tools and technologies, including Git, GitHub, Database Design, 
- MySQL, OAuth, HTML5, SQL, jQuery, OOP, MySQL, JavaScript, CSS, Bootstrap, and Laravel
-• Effectively contributed to the development and design of web projects
+---
 
-### Education
-#### Bachelor of Science in Computer Science at Islamia University of Bahawalpur (2019 - 2023)
+## 🧰 Tech Stack
 
-### Skills
-#### ✅ Laravel Application Development 
-#### ✅ Laravel Package Integration
-#### ✅ API Development with Laravel
-#### ✅ Laravel E-commerce Development
-#### ✅ Laravel Bug Fixing and Maintenance
-#### ✅ Laravel Socialite for Seamless OAuth Authentication
-#### ✅ Laravel Scout for Full-Text Search Functionality
-#### ✅ Laravel Passport and JWT for API Authentication and OAuth2 Implementation
-#### ✅ Laravel Echo and Reverb for Real-Time Event Broadcasting
-#### ✅ Security Enhancement
-#### ✅ Laravel Migration and Deployment
-#### ✅ Media File Management
-#### ✅ Email System
-#### ✅ PDF DEvelopment
-#### ✅ Responsive Web Design
+**Backend:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Contact Me
-Feel free to connect with me on LinkedIn or reach out to me at [zeeshanmushtaqdev786@gmail.com](mailto:zeeshanmushtaqdev786@gmail.com).
+**Frontend / UI:**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-007BFF?style=flat-square)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square)
+
+### Real-Time & Messaging
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat)
+![Pusher](https://img.shields.io/badge/Pusher-FF6C37?style=flat)
+![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat)
+
+**Other Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Role-Based Admin Panel & REST API System
+- Built secure backend architecture using Laravel  
+- REST APIs with token-based authentication (Sanctum & JWT)  
+- Role & permission management  
+- Livewire dashboards & dynamic UI components  
+- Optimized database queries and caching  
+- Event broadcasting using Laravel Echo, Pusher & Reverb  
+
+### 🔹 Laravel REST API for E-commerce Demo
+- API-driven backend for products, orders & users  
+- Authentication using Laravel Sanctum  
+- Admin panel with Livewire & Blade  
+- API documented with Postman  
+
+## 💼 What I Work On
+- Backend development for Laravel applications  
+- API backends for web & mobile apps  
+- Admin panels & dashboards  
+- Livewire-based dynamic features  
+- Bug fixing, refactoring & performance optimization  
+
+---
+
+## 📫 Contact
+
+- Upwork: https://www.upwork.com/freelancers/~01c656d25ab2f7ecb5?mp_source=share
+- GitHub: https://github.com/Zeeshan12378
+
+---
+
+> I focus on clean architecture, clear communication, and backend systems that scale with business growth.
