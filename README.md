@@ -1,88 +1,174 @@
 # Hi, I'm Zeeshan Mushtaq 👋
 
-**Laravel Full-Stack Developer** with 3+ years of experience building **secure, scalable, and maintainable web applications**.  
-I specialize in **backend-heavy Laravel systems**, interactive dashboards, and dynamic web apps using **Livewire, WebSockets, and Blade**.  
+## Backend Engineer | Laravel Ecosystem | Scalable Web Systems
+
+I am a Backend Engineer specializing in the Laravel ecosystem, building secure, scalable, and maintainable backend systems.
+
+With 3+ years of experience, I focus on backend architecture, REST APIs, database optimization, real-time applications, and clean software design.
+
+I enjoy transforming business requirements into reliable software solutions with a strong focus on code quality, performance, and long-term maintainability.
 
 ---
 
-## 🔧 Core Expertise
+## 🧠 Engineering Mindset
+
+I believe great software is built through:
+
+- Clean and maintainable architecture
+- SOLID principles and design patterns
+- Security-first development
+- Performance optimization
+- Clear communication
+- Continuous improvement
+
+---
+
+## 🏗 Backend Engineering Expertise
+
+### Frameworks & Architecture
+
+- Laravel (MVC, Service Container, Service Providers)
+- Service Layer Architecture
+- Repository Pattern
+- Dependency Injection
+- RESTful API Design
+- Event-driven Architecture
+- Queue-based Processing
+- Background Jobs
+
+### API Development
+
+- REST APIs
+- Laravel Sanctum
+- Laravel Passport
+- JWT Authentication
+- API Security
+- API Documentation
+- Third-party Integrations
+
+### Database Engineering
+
+- MySQL
+- PostgreSQL
+- SQLite
+- Redis
+
+Experience with:
+
+- Database Design
+- Query Optimization
+- Indexing
+- Relationships
+- Transactions
+- Caching Strategies
+
+---
+
+## ⚡ Laravel Ecosystem
+
+Working with:
+
+- Laravel Framework
+- Livewire
+- Blade
+- Alpine.js
+- Laravel Echo
+- WebSockets
+- Laravel Reverb
+- Events & Listeners
+- Notifications
+- Task Scheduling
+
+---
+
+## 🛠 Technology Stack
 
 ### Backend
-- Laravel (MVC, Eloquent ORM, Service-based architecture)  
-- RESTful API Development (Sanctum, Passport, JWT)  
-- Authentication & Authorization (Roles & Permissions)  
-- Database Design & Optimization (MySQL, PostgreSQL, Redis)  
-- Background Jobs, Queues & Caching  
-- Event Broadcasting (Laravel Echo, Pusher, Reverb)  
 
-### Frontend
-- Livewire + Blade Templates  
-- Alpine.js for lightweight interactivity  
-- Bootstrap (v4/v5) & responsive design  
-- JavaScript / AJAX for dynamic UI enhancements  
-
----
-
-## 🧰 Tech Stack
-
-**Backend:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Frontend / UI:**  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-007BFF?style=flat-square)
+### Frontend
+
+![Livewire](https://img.shields.io/badge/Livewire-4F46E5?style=flat-square)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square)
 
-### Real-Time & Messaging
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat)
-![Pusher](https://img.shields.io/badge/Pusher-FF6C37?style=flat)
-![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat)
+### Tools & Infrastructure
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 Role-Based Admin Panel & REST API System
-- Built secure backend architecture using Laravel  
-- REST APIs with token-based authentication (Sanctum & JWT)  
-- Role & permission management  
-- Livewire dashboards & dynamic UI components  
-- Optimized database queries and caching  
-- Event broadcasting using Laravel Echo, Pusher & Reverb  
+### 🔹 Laravel Admin & API Platform
 
-### 🔹 Laravel REST API for E-commerce Demo
-- API-driven backend for products, orders & users  
-- Authentication using Laravel Sanctum  
-- Admin panel with Livewire & Blade  
-- API documented with Postman  
+A backend-focused system built with Laravel.
 
-## 💼 What I Work On
-- Backend development for Laravel applications  
-- API backends for web & mobile apps  
-- Admin panels & dashboards  
-- Livewire-based dynamic features  
-- Bug fixing, refactoring & performance optimization  
+Key features:
+
+- Role-based authentication and authorization
+- REST API architecture
+- Dynamic dashboards
+- Database optimization
+- Background processing
+- Real-time notifications
 
 ---
 
-## 📫 Contact
+### 🔹 E-Commerce API System
 
-- Upwork: https://www.upwork.com/freelancers/~01c656d25ab2f7ecb5?mp_source=share
+Backend API platform for managing:
+
+- Products
+- Orders
+- Users
+- Authentication
+
+Implemented:
+
+- Laravel Sanctum authentication
+- API documentation
+- Clean backend structure
+- Optimized database queries
+
+---
+
+## 🔭 Currently Building
+
+- Advanced Laravel architecture knowledge
+- Open-source Laravel packages
+- Backend engineering skills
+- Developer productivity tools under **Zevora**
+
+---
+
+## 📚 Learning & Growth
+
+Currently focusing on:
+
+- PHP Internals
+- Laravel Framework Internals
+- System Design
+- Database Engineering
+- Software Architecture
+- Cloud & Deployment Practices
+
+---
+
+## 🤝 Let's Connect
+
 - GitHub: https://github.com/Zeeshan12378
+- Upwork: https://www.upwork.com/freelancers/~01c656d25ab2f7ecb5?mp_source=share
 
 ---
 
-> I focus on clean architecture, clear communication, and backend systems that scale with business growth.
+> Building reliable backend systems with clean architecture, scalable design, and continuous improvement.
